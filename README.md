@@ -205,7 +205,7 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 npm uninstall cypress
 ```
 
-## Next Steps with this theme
+## Next Steps with this theme lk
 
 This project is intended to be extended by you! We wanted to make possible to replace parts of it with your own tools and data sources. If you're interested on a direction, you can refer to Matter's [how to use section](https://gatsby-ecommerce-theme.netlify.app/how-to-use/) in this project or you may want to consider using [Matter's toolset with their JAMM framework](https://matterdesign.com.au/service/headless-commerce-with-jamm/) which includes some projects like:
 - [BigCommerce](https://bigcommerce.zfrcsk.net/c/2429593/854992/2941) for a headless e-commerce solution
